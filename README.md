@@ -9,6 +9,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lethinh73&repo=grab-easy)](https://github.com/lethinh73/grab-easy)
 
 ![Visitor Count](https://profile-counter.glitch.me/lethinh73/count.svg)
-
-[![Visits Badge](https://badges.pufler.dev/visits/lethinh73/lethinh73)](https://github.com/lethinh73)
-
