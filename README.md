@@ -10,5 +10,5 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/lethinh73/count.svg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/lethinh73)](https://github.com/lethinh73)
+[![Visits Badge](https://badges.pufler.dev/visits/lethinh73/lethinh73)](https://github.com/lethinh73)
 
