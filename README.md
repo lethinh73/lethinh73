@@ -7,3 +7,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lethinh73&repo=todo-app)](https://github.com/lethinh73/todo-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lethinh73&repo=grab-easy)](https://github.com/lethinh73/grab-easy)
+
+![Visitor Count](https://profile-counter.glitch.me/lethinh73/count.svg)
+
