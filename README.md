@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Thinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lethinh73)](https://github.com/anuraghazra/github-readme-stats)
+[![Thinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lethinh73&hide=stars,,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lethinh73/lethinh73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
